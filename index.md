@@ -1,4 +1,8 @@
+Portifólio em contrução. Aguardem novidades!
+
 ## DataScience
+
+
 
 ### Visão Computacional
 
